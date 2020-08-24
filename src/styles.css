@@ -1,0 +1,49 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.delete {
+  margin-left: 20px;
+}
+
+.deleteTask {
+  margin-left: 40px;
+}
+
+.folderTab {
+  border-style: solid;
+  padding: 0;
+}
+
+.fileTab {
+  border-style: solid;
+  border-left: white;
+  padding: 0;
+}
+
+.label {
+  color: white;
+  padding: 8px;
+  display: flex;
+}
+.other {
+  background-color: #e7e7e7;
+  color: black;
+  border-style: outset;
+}
+
+.Add {
+  margin-left: 50%;
+}
+
+.jumbo {
+  margin: 0;
+  padding: 10px;
+}
+
+.textArea {
+  padding: 0;
+  border-style: solid;
+  border-left: white;
+}
